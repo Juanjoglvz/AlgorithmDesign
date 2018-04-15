@@ -7,8 +7,8 @@ Right now There is this content:
 Exercises to calculate something using dynamic programming:
 
 - Combinatorial Number: Forward and backward methods
-  Calculated with Pascal's triangle:
-  - combinatorial(n, k) = combinatorial(n-1, k-1) + combinatorial(n-1, k).
+  - Calculated with Pascal's triangle:
+   - combinatorial(n, k) = combinatorial(n-1, k-1) + combinatorial(n-1, k).
 
 - Progression: Forward and backward methods
   - f(2n) = f(2n + 1)
