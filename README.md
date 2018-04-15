@@ -19,7 +19,7 @@ Exercises to calculate something using dynamic programming:
 
 - Ackerman Function: Forward and backward methods
 
--Travelling salesperson: Forward and backward methods
+- Travelling salesperson: Forward and backward methods
 
 ## Probabilistic programming
 Exercises to calculate something using different probabilistic methods:
