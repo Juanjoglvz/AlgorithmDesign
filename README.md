@@ -11,6 +11,6 @@ Exercises to calculate something using dynamic programming:
   - combinatorial(n, k) = combinatorial(n-1, k-1) + combinatorial(n-1, k).
 
 - Progression: Forward and backward methods
-  f(2n) = f(2n + 1)
-  f(2n + 1) = f(n) + f(n + 1)
-  f(1) = f(2) = 1
+  - f(2n) = f(2n + 1)
+  - f(2n + 1) = f(n) + f(n + 1)
+  - f(1) = f(2) = 1
