@@ -61,6 +61,9 @@ public class Main {
 	}
 	
 	public static void backward(int n, int k, int[][] pascal) {
+		if (pascal[n][k] != 0) {
+			return;
+		}
 		if (k == 0 || k == n) {
 			pascal[n][k] = 1;
 		}

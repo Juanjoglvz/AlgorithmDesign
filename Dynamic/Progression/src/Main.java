@@ -87,6 +87,9 @@ public class Main {
 	}
 	
 	public static void back(int n, int[] list) {
+		if (list[n] != 0) {
+			return;
+		}
 		if (n == 1 || n == 2) {
 			list[n] = 1;
 		}
