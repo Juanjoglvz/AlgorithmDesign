@@ -14,6 +14,12 @@ Exercises to calculate something using dynamic programming:
   - f(2n) = f(2n + 1)
   - f(2n + 1) = f(n) + f(n + 1)
   - f(1) = f(2) = 1
+  
+- Fibonacci number: Forward and backward methods
+
+- Ackerman Function: Forward and backward methods
+
+-Travelling salesperson: Forward and backward methods
 
 ## Probabilistic programming
 Exercises to calculate something using different probabilistic methods:
