@@ -21,6 +21,9 @@ Exercises to calculate something using dynamic programming:
 
 - Travelling salesperson: Forward and backward methods
 
+- Dartboard: Backward method (Forward does not work correctly)
+  - Similar to exchange problem, find the combination of scores to reach a certain number. If the number is unreachable find the combination of scores to reach the closest number. Find always the combination with less darts.
+
 ## Probabilistic programming
 Exercises to calculate something using different probabilistic methods:
   - calculate areas below different functions.
